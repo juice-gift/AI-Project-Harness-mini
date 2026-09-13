@@ -1,0 +1,10 @@
+# Common operating-system noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary editor files
+*.tmp
+*.temp
+*.swp
+*~
