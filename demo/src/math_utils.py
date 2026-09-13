@@ -1,2 +1,8 @@
 def clamp(value, minimum, maximum):
-    raise NotImplementedError("clamp is not implemented yet")
+    if minimum > maximum:
+        raise ValueError("minimum cannot be greater than maximum")
+    if value < minimum:
+        return minimum
+    if value > maximum:
+        return maximum
+    return value
