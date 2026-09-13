@@ -1,6 +1,6 @@
-# AI Project Harness Mini
+<img width="1280" height="770" alt="image" src="https://github.com/user-attachments/assets/f2cc0896-73c8-4e96-9cc3-0cfa50c91119" /># AI Project Harness Mini
 
-A lightweight project-local workflow skill for maintaining context, task scope, and verification state across AI-assisted software development sessions.
+A lightweight project-local workflow skill for preserving critical project context, task scope, and verification state across AI-assisted software development sessions, including session restarts and context compaction.
 
 ## Why
 
